@@ -1,0 +1,19 @@
+.divisor {
+  width: 100%;
+
+  left: 0;
+  right: 0;
+
+  position: absolute;
+  z-index: 0;
+
+  display: block;
+}
+
+.svg-polygon {
+  bottom: 0;
+  position: absolute;
+  overflow: hidden;
+
+  vertical-align: middle;
+}

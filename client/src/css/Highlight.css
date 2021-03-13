@@ -1,0 +1,48 @@
+.highlight-wrapper {
+  position: relative;
+  width: 100%;
+
+  height: 400px;
+}
+
+.highlight-img {
+  position: relative;
+
+  width: 100%;
+  height: 40%;
+}
+
+.highlight-img img {
+  width: 100%;
+  height: 100%;
+}
+
+.highligth-desc {
+  background-color: #3182ce;
+  width: 100%;
+  height: 60%;
+  position: absolute;
+  bottom: 0px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  text-transform: uppercase;
+  font-size: 1.3rem;
+  padding: 0.5rem;
+}
+
+.highlight-desc-ul {
+  padding-inline-start: 0;
+}
+
+.highlight-desc-li {
+  list-style-type: none;
+  margin-left: 0;
+}
+
+.highlight-desc-title {
+  font-weight: bolder;
+  margin-bottom: 0.5rem;
+}
